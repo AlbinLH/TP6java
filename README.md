@@ -1,3 +1,2 @@
 # TP6java
 
-SECRET_key = 'TEST123TEST'
